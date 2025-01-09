@@ -13,10 +13,10 @@ export default function Home() {
                 <Image alt="18toto slot" src='/logo.png' className='w-48 md:w-52 block' width='230' height='80' />
               </a>
                 <div className="max-sm:mt-32 max-sm:container md:ml-auto md:mr-auto flex items-center text-base justify-center gap-2">
-                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
+                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/maxis' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
                       LOGIN
                   </Link>
-                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
+                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/maxis' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
                       DAFTAR
                   </Link>
                 </div>
@@ -62,7 +62,7 @@ export default function Home() {
                         <tr className='border-b border-[#EACD00] '>
                           <td className='px-2 py-3 w-1/4 whitespace-nowrap border-e border-[#EACD00] '>Daftar Slot Maxwin</td>
                           <td className='px-2 py-3 w-3/4 whitespace-nowrap border-e border-[#EACD00] '>
-                            <Link href='https://daftarwap.orang-dalam.link/18' target="_blank">
+                            <Link href='https://daftarwap.orang-dalam.link/maxis' target="_blank">
                               Klik disini
                             </Link>
                           </td>
