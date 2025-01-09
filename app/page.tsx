@@ -10,7 +10,7 @@ export default function Home() {
         <div className='mx-auto lg:w-2/3'>
             <div className=" container mx-auto flex flex-wrap md:p-5 flex-col md:flex-row items-center">
               <a className="max-sm:fixed flex title-font font-medium items-center text-gray-900 md:mb-0">
-                <Image alt="18toto slot" src='/logo.png' className='w-48 md:w-52 block' width='230' height='80' />
+                <Image alt="maxistoto slot" src='/logo.png' className='w-48 md:w-52 block' width='230' height='80' />
               </a>
                 <div className="max-sm:mt-32 max-sm:container md:ml-auto md:mr-auto flex items-center text-base justify-center gap-2">
                   <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/maxis' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
@@ -33,14 +33,14 @@ export default function Home() {
                       <thead className='font-medium border-b border-[#EACD00] bg-gradient-to-r from-[#2E2E2E] via-[#606060] to-[#2E2E2E] '>
                         <tr>
                           <th colSpan={2} scope='col' className='px-6 py-3 text-center border-2 border-e border-[#EACD00] '>
-                            <h2>Informasi 18toto Agen Slot Maxwin Online</h2>
+                            <h2>Informasi maxistoto Agen Slot Maxwin Online</h2>
                           </th>
                         </tr>
                       </thead>
                       <tbody>
                         <tr className='border-b border-[#EACD00] grid-cols-4'>
                           <td className='px-2 py-3 w-1/4 whitespace-nowrap border-e border-[#EACD00] '>Nama Situs</td>
-                          <td className='px-2 py-3 w-3/4 whitespace-nowrap border-e border-[#EACD00] '>18toto</td>
+                          <td className='px-2 py-3 w-3/4 whitespace-nowrap border-e border-[#EACD00] '>maxistoto</td>
                         </tr>
                         <tr className='border-b border-[#EACD00] '>
                           <td className='px-2 py-3 w-1/4 whitespace-nowrap border-e border-[#EACD00] '>Pasaran Togel Terbanyak</td>
@@ -88,19 +88,19 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <h1>18toto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
+            <h1>maxistoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              18toto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, 18toto menggabungkan rtp yang sangat akurat hingga 99%.
+              maxistoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, maxistoto menggabungkan rtp yang sangat akurat hingga 99%.
             </p>
             <p>
-              18toto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              maxistoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
             </p>
             
             <p>
               <strong>Keyword Terkait:</strong>
             </p>
             <ul className='text-[#FFD700] ml-4 leading-loose'>
-              <li className='list-disc'>18toto</li>
+              <li className='list-disc'>maxistoto</li>
               <li className='list-disc'>sydneypools</li>
               <li className='list-disc'>sydney lotto</li>
               <li className='list-disc'>slot online</li>
