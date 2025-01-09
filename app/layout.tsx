@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Maxistoto hadir sebagai situs terpercaya yang memberikan penawaran istimewa bagi para pemain baru! Dengan bonus new member 100% di awal, Anda bisa langsung menggandakan keseruan bermain tanpa perlu khawatir. Cukup lakukan deposit pertama Anda, dan nikmati tambahan saldo yang siap membawa Anda lebih dekat ke kemenangan besar" />
+        <meta name="keywords" content="Maxistoto, Bonus New Member 100, Info Link Gacor, Link Gacor Hari Ini RTP Tinggi, Link Maxwin 2025, Info Link Slot Gacor, Link Slot Terpercaya Dan Gacor, Link Depo Gacor, Gacor77 Link Alternatif, Slot138 Login Link Alternatif" />
+        <meta name="google-site-verification" content="eOaMJChOeLAWOTxBJC9KbWLvySruP7AJ4PYR0sgMpqE" />
+        <meta name="application-name" content="maxistoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="maxistoto" />
+        <meta name="publisher" content="maxistoto" />
+        <meta name="copyright" content="maxistoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" />
         <meta property="og:description" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="maxistoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="maxistoto" />
         <meta name="twitter:title" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" />
         <meta name="twitter:description" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
