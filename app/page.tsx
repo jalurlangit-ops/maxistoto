@@ -13,17 +13,17 @@ export default function Home() {
                 <Image alt="18toto slot" src='/logo.png' className='w-48 md:w-52 block' width='230' height='80' />
               </a>
                 <div className="max-sm:mt-32 max-sm:container md:ml-auto md:mr-auto flex items-center text-base justify-center gap-2">
-                  <Link title="18toto : Slot Deposit 3000 Via Dana Dan Situs Slot Gacor Jam Ini" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
+                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
                       LOGIN
                   </Link>
-                  <Link title="18toto : Slot Deposit 3000 Via Dana Dan Situs Slot Gacor Jam Ini" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
+                  <Link title="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" href='https://daftarwap.orang-dalam.link/18' target="_blank" className='text-center w-52 max-sm:w-9/12 font-bold text-black px-6 py-2 border-2 border-[#FFFE00] rounded-sm bg-gradient-to-r from-[#FFA200] via-[#FFC300] to-[#ffa200]'>
                       DAFTAR
                   </Link>
                 </div>
             </div>
 
-          <Image alt="18toto : Slot Deposit 3000 Via Dana Dan Situs Slot Gacor Jam Ini" src='/banner.png' className='max-sm:mt-12 w-full block' width={757} height={411} />
-          <h1 className='my-6 text-center'>18toto : Slot Deposit 3000 Via Dana Dan Situs Slot Gacor Jam Ini</h1>
+          <Image alt="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" src='/banner.png' className='max-sm:mt-12 w-full block' width={757} height={411} />
+          <h1 className='my-6 text-center'>Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100</h1>
           <div className='p-6 space-y-6 rounded-md glow-yellow mb-40'>
             <div className='flex flex-col'>
               <div className='overflow-x-auto sm:-mx-6 lg:-mx-8'>
@@ -129,7 +129,7 @@ export default function Home() {
             </ul>
           </div>
           <div className='bg-[#5B5B5B] text-center py-4'>
-            <p className='text-sm text-white font-medium'>Copyright &copy; 2025 - 18toto : Slot Deposit 3000 Via Dana Dan Situs Slot Gacor Jam Ini </p>
+            <p className='text-sm text-white font-medium'>Copyright &copy; 2025 - Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100 </p>
           </div>
         </div>
       </div>
