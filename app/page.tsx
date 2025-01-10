@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>maxistoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              maxistoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, maxistoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Maxistoto menawarkan penawaran menarik bagi para pemain baru! Bergabunglah dengan kami dan nikmati Bonus New Member 100% yang langsung diberikan di awal sebagai hadiah selamat datang. Dengan bonus ini, Anda bisa memulai petualangan bermain game slot favorit tanpa khawatir soal modal. Nikmati berbagai jenis permainan dengan peluang menang yang lebih besar berkat bonus ini, yang memberikan Anda lebih banyak kesempatan untuk meraih jackpot besar
             </p>
             <p>
-              maxistoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Tak hanya itu, Maxistoto juga menyediakan berbagai macam situs bonus New Member 100% yang bisa Anda manfaatkan untuk meningkatkan pengalaman bermain. Dapatkan keuntungan ganda hanya dengan bergabung dan bermain! Dengan berbagai pilihan game seru dan tampilan yang user-friendly, Maxistoto memastikan Anda tidak hanya mendapatkan bonus besar, tetapi juga pengalaman bermain yang menyenangkan dan menguntungkan. Jangan lewatkan kesempatan luar biasa ini
             </p>
             
             <p>
