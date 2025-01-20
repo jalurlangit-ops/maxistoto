@@ -1,9 +1,8 @@
 'use client';
 
 import { Inter } from 'next/font/google';
+import GlobalConst from "./var-global";
 import './globals.css';
-
-const nameDomain = "https://www.bizworkit.com";
 
 const inter = Inter({
   variable: '--font-inter',
@@ -15,13 +14,13 @@ function rank() {
       __html: `{
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "https://www.bizworkit.com",
+    "name": '${GlobalConst.domain}',
     "operatingSystem": "ANDROID",
     "applicationCategory": "GameApplication",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5",
-      "ratingCount": "7143729"
+      "ratingCount": "8142921"
     },
 	"review": {
           "@type": "Review",
@@ -33,8 +32,8 @@ function rank() {
           },
 	"author": {
             "@type": "Person",
-            "name": "Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100",
-            "reviewBody": "Maxistoto hadir sebagai situs terpercaya yang memberikan penawaran istimewa bagi para pemain baru! Dengan bonus new member 100% di awal, Anda bisa langsung menggandakan keseruan bermain tanpa perlu khawatir. Cukup lakukan deposit pertama Anda, dan nikmati tambahan saldo yang siap membawa Anda lebih dekat ke kemenangan besar"
+            "name": '${GlobalConst.title}',
+            "reviewBody": '${GlobalConst.desc}'
           }
         },
     "offers": {
@@ -51,7 +50,7 @@ function histats() {
     return {
       __html: `
         var _Hasync= _Hasync|| [];
-        _Hasync.push(['Histats.start', '1,4921031,4,5,172,25,00010000']);
+        _Hasync.push(['Histats.start', '${GlobalConst.histats}']);
         _Hasync.push(['Histats.fasi', '1']);
         _Hasync.push(['Histats.track_hits', '']);
         (function() {
@@ -71,16 +70,16 @@ export default function RootLayout({
   return (
     <html lang="id" data-browser="chrome">
       <head>
-        <title>Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100</title>
-        <meta name="description" content="Maxistoto hadir sebagai situs terpercaya yang memberikan penawaran istimewa bagi para pemain baru! Dengan bonus new member 100% di awal, Anda bisa langsung menggandakan keseruan bermain tanpa perlu khawatir. Cukup lakukan deposit pertama Anda, dan nikmati tambahan saldo yang siap membawa Anda lebih dekat ke kemenangan besar" />
-        <meta name="keywords" content="Maxistoto, Bonus New Member 100, Info Link Gacor, Link Gacor Hari Ini RTP Tinggi, Link Maxwin 2025, Info Link Slot Gacor, Link Slot Terpercaya Dan Gacor, Link Depo Gacor, Gacor77 Link Alternatif, Slot138 Login Link Alternatif" />
-        <meta name="google-site-verification" content="eOaMJChOeLAWOTxBJC9KbWLvySruP7AJ4PYR0sgMpqE" />
-        <meta name="application-name" content="maxistoto" />
-        <link rel="author" href={nameDomain} />
-        <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="maxistoto" />
-        <meta name="publisher" content="maxistoto" />
-        <meta name="copyright" content="maxistoto" />
+        <title>{GlobalConst.title}</title>
+        <meta name="description" content={GlobalConst.desc} />
+        <meta name="keywords" content={GlobalConst.keywords} />
+        <meta name="google-site-verification" content={GlobalConst.gsc} />
+        <meta name="application-name" content={GlobalConst.brandName} />
+        <link rel="author" href={GlobalConst.domain} />
+        <link rel="canonical" href={GlobalConst.domain} />
+        <meta name="author" content={GlobalConst.brandName} />
+        <meta name="publisher" content={GlobalConst.brandName} />
+        <meta name="copyright" content={GlobalConst.brandName} />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -94,20 +93,20 @@ export default function RootLayout({
         <meta name="MobileOptimized" content="width" />
         <meta name="distribution" content="global" />
         <meta name="format-detection" content="telephone=no, address=no, email=no" />
-        <meta property="og:title" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" />
-        <meta property="og:description" content="Maxistoto hadir sebagai situs terpercaya yang memberikan penawaran istimewa bagi para pemain baru! Dengan bonus new member 100% di awal, Anda bisa langsung menggandakan keseruan bermain tanpa perlu khawatir. Cukup lakukan deposit pertama Anda, dan nikmati tambahan saldo yang siap membawa Anda lebih dekat ke kemenangan besar" />
-        <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="maxistoto" />
+        <meta property="og:title" content={GlobalConst.title} />
+        <meta property="og:description" content={GlobalConst.desc} />
+        <meta property="og:url" content={GlobalConst.domain} />
+        <meta property="og:site_name" content={GlobalConst.brandName} />
         <meta property="og:locale" content="id_ID" />
-        <meta property="og:image" content={nameDomain} />
+        <meta property="og:image" content={GlobalConst.domain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="maxistoto" />
-        <meta name="twitter:title" content="Maxistoto : Bonus New Member 100 Di Awal Dan Situs Bonus New Member 100" />
-        <meta name="twitter:description" content="Maxistoto hadir sebagai situs terpercaya yang memberikan penawaran istimewa bagi para pemain baru! Dengan bonus new member 100% di awal, Anda bisa langsung menggandakan keseruan bermain tanpa perlu khawatir. Cukup lakukan deposit pertama Anda, dan nikmati tambahan saldo yang siap membawa Anda lebih dekat ke kemenangan besar" />
-        <meta name="twitter:image" content={nameDomain} />
+        <meta name="twitter:creator" content={GlobalConst.brandName} />
+        <meta name="twitter:title" content={GlobalConst.title} />
+        <meta name="twitter:description" content={GlobalConst.desc} />
+        <meta name="twitter:image" content={GlobalConst.domain} />
         <link rel="icon" href="/favicon.ico?favicon.088e6c96.ico" sizes="256x256" type="image/x-icon" />
         <meta name="next-size-adjust" content="" />
         <script type="application/ld+json" dangerouslySetInnerHTML={rank()} key="product-jsonld" />
